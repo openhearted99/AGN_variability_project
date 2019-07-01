@@ -1,1 +1,1 @@
-This file is a new file in a *new* branch!.
+This file conflicts with the branch_file.md in master.
