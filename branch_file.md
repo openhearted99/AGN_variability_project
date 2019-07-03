@@ -1,1 +1,0 @@
-This file conflicts with the branch_file.md in master.
