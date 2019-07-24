@@ -26,7 +26,7 @@ tbin_in=8640000.           # Resolution of light curve (dt), in seconds
 A_in=30                    # Dummy variable used for normalization
 v_bend_in=2.e-10           # Frequency of the bend of the power-law
 a_low_in=1.0               # Low frequency slope
-a_high_in=1.0              # High frequency slope
+a_high_in=1.3              # High frequency slope
 c_in=0.0                   # Offset from zero
 #-------------
 # Eddington ratio 
